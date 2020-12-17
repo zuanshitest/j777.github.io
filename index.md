@@ -7,7 +7,7 @@
 </head>
 <script language=javascript>
 if (document.domain =='j777.com')
-this.location = "https://j777tz1.com" + this.location.pathname + this.location.search;
+this.location = "https://j777tz2.com" + this.location.pathname + this.location.search;
 </script>
 <body>
  <h1></h1>
